@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OnlineEduReactWebpage/static/css/main.c219300b.css",
+    "main.js": "/OnlineEduReactWebpage/static/js/main.ab3f042b.js",
+    "static/js/787.6a694f3c.chunk.js": "/OnlineEduReactWebpage/static/js/787.6a694f3c.chunk.js",
+    "static/media/home_anime.gif": "/OnlineEduReactWebpage/static/media/home_anime.f372ef867ab6dc71a52b.gif",
+    "static/media/tut1.jpeg": "/OnlineEduReactWebpage/static/media/tut1.ad48573595158add1dfb.jpeg",
+    "index.html": "/OnlineEduReactWebpage/index.html",
+    "main.c219300b.css.map": "/OnlineEduReactWebpage/static/css/main.c219300b.css.map",
+    "main.ab3f042b.js.map": "/OnlineEduReactWebpage/static/js/main.ab3f042b.js.map",
+    "787.6a694f3c.chunk.js.map": "/OnlineEduReactWebpage/static/js/787.6a694f3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c219300b.css",
+    "static/js/main.ab3f042b.js"
+  ]
+}
